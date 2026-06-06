@@ -25,6 +25,7 @@ while true; do
                 4) free -h && vmstat -d;;
                 5) who;;
                 6) echo "EXITING..."
+				7) echo "TYPE : [ utp ]"
 	esac
 
 
